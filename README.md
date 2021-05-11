@@ -1,1 +1,1 @@
-# my-finctech-homework
+# my-fintech-homework
