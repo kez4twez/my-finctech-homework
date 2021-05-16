@@ -10,13 +10,12 @@
 
 * Stani was studying law at the Helsinki university in 2015 when he got interested in the Ethereum network. Stani was intrigued by Ethereum and begun exploring how it could help to disrupt the traditional finance system. Stani saw tremendous potential in the power of Ethereum based smart contracts.
 
-* In 2017 Stani launched Ethlend the product, along with the LEND token in the form of an ICO, to further fund the development of Ethlend.  **REBRAND**
+* In 2017 Stani launched Ethlend the product, along with the LEND token in the form of an ICO, to further fund the development of Ethlend. In September of 2018 Stani rebranded Ethlend to Aave.
 
 
 ## Business Activities:
 
 * Aave is an overcollateralised lending protocol ran on the Ethereum network. Aave is disrupting traditional finance by allowing users to earn interest on their crypto deposits and inversely, allowing users to borrow against their crypto assets while paying relatively low interest rates. 
----
 All while only interacting with an autonomous protocol, below is a diagram of how the protocol works.
 
 ![Aave explained in a picture](images/aave-overview.jpg)
